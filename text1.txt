@@ -1,3 +1,4 @@
-HI this my code
-C:\Program Files\Git\bin
-C:\Program Files\Git\cmd
+git finally learnt 
+thank you
+>>>>>>> 07169f41ab7c51c85164fb0c5d432b17e2dfb6a4
+I am learning git from you tube. 
